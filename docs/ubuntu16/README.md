@@ -58,6 +58,6 @@ rsync -avSHP --delete rsync://repo.cloudlinux.com/UBUNTU1604ELS/
 
 In order to use ELS for Ubuntu, you need to open TCP port 443 to the following destinations:
 
-* cln.cloudlinux.com
-* repo.cloudlinux.com
-* els-rollout.cloudlinux.com
+cln.cloudlinux.com
+repo.cloudlinux.com
+els-rollout.cloudlinux.com
