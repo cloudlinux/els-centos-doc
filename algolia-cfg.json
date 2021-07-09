@@ -1,7 +1,7 @@
 {
   "index_name": "els",
   "start_urls": [
-    "https://docs.els-centos.cloudlinux.com/"
+    "https://docs.els.cloudlinux.com/"
   ],
   "selectors": {
     "lvl0": ".content h1",
